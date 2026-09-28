@@ -1,0 +1,1 @@
+AI StudyBuddy is an AI-powered learning assistance platform designed to simplify the study process for students using modern web technologies and Generative AI. It allows students to upload study materials, generate summaries, create flashcards,produce quizzes, and receive personalized study plans.
